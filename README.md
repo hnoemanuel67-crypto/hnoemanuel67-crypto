@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hnoemanuel67-crypto/hnoemanuel67-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Bienvenido a mi perfil
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hola+soy+Pedro;Estudiante+de+Desarrollo+de+Software;Apasionado+por+la+programación" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<a href="https://hnoemanuel67-crypto.github.io/perfil-pedro/">
+<img src="https://img.shields.io/badge/VER%20MI%20PERFIL%20FUTURISTA-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
